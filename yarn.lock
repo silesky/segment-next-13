@@ -265,9 +265,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@segment/analytics-next@npm:^1.51.0":
-  version: 1.51.0
-  resolution: "@segment/analytics-next@npm:1.51.0"
+"@segment/analytics-next@portal:/Users/me/projects/analytics-next/packages/browser::locator=analytics-next-13%40workspace%3A.":
+  version: 0.0.0-use.local
+  resolution: "@segment/analytics-next@portal:/Users/me/projects/analytics-next/packages/browser::locator=analytics-next-13%40workspace%3A."
   dependencies:
     "@lukeed/uuid": ^2.0.0
     "@segment/analytics-core": 1.2.2
@@ -280,9 +280,8 @@ __metadata:
     spark-md5: ^3.0.1
     tslib: ^2.4.1
     unfetch: ^4.1.0
-  checksum: b0a20801451753907e8bfbb2e649e6b71685edd12c0adb4923d772414fb6cf61354ce8a9d06ecce7c8e4eca43d1e44aca18daae15048ffe52729f0710d70de4b
   languageName: node
-  linkType: hard
+  linkType: soft
 
 "@segment/analytics.js-video-plugins@npm:^0.2.1":
   version: 0.2.1
